@@ -1,0 +1,6 @@
+c:\users\wakils\documents\visual studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\bin\Release\SDCounty.ReportingServices.AccelaDocumentsService.pdb
+c:\users\wakils\documents\visual studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\obj\Release\SDCounty.ReportingServices.AccelaDocumentsService.pdb
+C:\Users\wakils\Documents\Visual Studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\bin\Release\SDCounty.ReportingServices.AccelaDocumentsService.exe.config
+C:\Users\wakils\Documents\Visual Studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\bin\Release\SDCounty.ReportingServices.AccelaDocumentsService.exe
+C:\Users\wakils\Documents\Visual Studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\obj\Release\SDCounty.ReportingServices.AccelaDocumentsService.csprojResolveAssemblyReference.cache
+C:\Users\wakils\Documents\Visual Studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\obj\Release\SDCounty.ReportingServices.AccelaDocumentsService.exe

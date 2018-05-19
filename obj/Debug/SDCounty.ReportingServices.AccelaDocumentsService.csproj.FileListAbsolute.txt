@@ -1,0 +1,5 @@
+c:\users\wakils\documents\visual studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\bin\Debug\SDCounty.ReportingServices.AccelaDocumentsService.pdb
+c:\users\wakils\documents\visual studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\obj\Debug\SDCounty.ReportingServices.AccelaDocumentsService.pdb
+C:\Users\wakils\Documents\Visual Studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\bin\Debug\SDCounty.ReportingServices.AccelaDocumentsService.dll.config
+C:\Users\wakils\Documents\Visual Studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\bin\Debug\SDCounty.ReportingServices.AccelaDocumentsService.dll
+C:\Users\wakils\Documents\Visual Studio 2015\Projects\SDCounty.ReportingServices.AccelaDocumentsService\obj\Debug\SDCounty.ReportingServices.AccelaDocumentsService.dll
